@@ -10,3 +10,5 @@ Our Top 3 models' results for prediction of a energy range of a solar flare base
 1. Gradient Boosting Classifier - 87 % accuracy
 2. Random Forests Classifier - 86 % accuracy
 3. Decision Tree Calssifier - 82 % accuracy
+
+### A detailed blog post is available [here](https://byte7.github.io/blog/Predicting-SolarFlares/) explaining how I went around the data and prediction of flare's energy.
